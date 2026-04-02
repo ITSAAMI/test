@@ -20,6 +20,13 @@ It allows users to manage daily tasks efficiently with a clean and user-friendly
 - 📱 Responsive Design
 
 ---
+---
+---
+---
+---
+---
+------
+----
 
 ## 🛠️ Tech Stack
 
