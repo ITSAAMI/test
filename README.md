@@ -1,12 +1,1 @@
-<pre>```This is Code
-
-
-Ti is code                                                            okm
-
-
-
-                        ok
-
-
-
-```</pre>
+| Name | Father name | Marks | Percenrage | 
