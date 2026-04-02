@@ -1,4 +1,4 @@
-| Name | Father name | Marks | Percenrage | 
--------------------------------------------
-| Amir | Hayat       | 100   | 100        | 
-
+| Name | Age |
+|------|-----|
+| Ali  | 20  |
+| Sara | 22  |
